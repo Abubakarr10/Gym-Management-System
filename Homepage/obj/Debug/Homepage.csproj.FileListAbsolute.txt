@@ -1,0 +1,23 @@
+c:\users\z\documents\visual studio 2015\Projects\GYM\Homepage\bin\Debug\Homepage.exe.config
+c:\users\z\documents\visual studio 2015\Projects\GYM\Homepage\bin\Debug\Homepage.exe
+c:\users\z\documents\visual studio 2015\Projects\GYM\Homepage\bin\Debug\Homepage.pdb
+c:\users\z\documents\visual studio 2015\Projects\GYM\Homepage\obj\Debug\Homepage.csprojResolveAssemblyReference.cache
+c:\users\z\documents\visual studio 2015\Projects\GYM\Homepage\obj\Debug\Homepage.Form1.resources
+c:\users\z\documents\visual studio 2015\Projects\GYM\Homepage\obj\Debug\Homepage.Properties.Resources.resources
+c:\users\z\documents\visual studio 2015\Projects\GYM\Homepage\obj\Debug\Homepage.csproj.GenerateResource.Cache
+c:\users\z\documents\visual studio 2015\Projects\GYM\Homepage\obj\Debug\Homepage.exe
+c:\users\z\documents\visual studio 2015\Projects\GYM\Homepage\obj\Debug\Homepage.pdb
+E:\3rd semester\Project\GYM\Homepage\bin\Debug\Homepage.exe.config
+E:\3rd semester\Project\GYM\Homepage\obj\Debug\Homepage.exe
+E:\3rd semester\Project\GYM\Homepage\obj\Debug\Homepage.pdb
+E:\3rd semester\Project\GYM\Homepage\bin\Debug\Homepage.exe
+E:\3rd semester\Project\GYM\Homepage\bin\Debug\Homepage.pdb
+E:\3rd semester\Project\GYM\Homepage\obj\Debug\Homepage.csprojResolveAssemblyReference.cache
+E:\3rd semester\Project\GYM\Homepage\obj\Debug\Homepage.Properties.Resources.resources
+E:\3rd semester\Project\GYM\Homepage\obj\Debug\Homepage.csproj.GenerateResource.Cache
+E:\3rd semester\Project\GYM\Homepage\obj\Debug\Homepage.NewAdmission.resources
+E:\3rd semester\Project\GYM\Homepage\obj\Debug\Homepage.SearchMember.resources
+E:\3rd semester\Project\GYM\Homepage\obj\Debug\Homepage.SearchMemberFee.resources
+E:\3rd semester\Project\GYM\Homepage\obj\Debug\Homepage.Homepage_Gymmember.resources
+E:\3rd semester\Project\GYM\Homepage\obj\Debug\Homepage.FrontPage.resources
+E:\3rd semester\Project\GYM\Homepage\obj\Debug\Homepage.MemberFee.resources
